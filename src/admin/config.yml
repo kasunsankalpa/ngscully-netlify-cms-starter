@@ -6,6 +6,7 @@ media_folder: 'src/assets/images/uploads' # Folder where user uploaded files sho
 public_folder: 'assets/images/uploads'
 publish_mode: editorial_workflow
 
+
 collections: # A list of collections the CMS should be able to edit
   - name: 'blog' # Used in routes, ie.: /admin/collections/:slug/edit
     label: 'Blog' # Used in the UI, ie.: "New Post"
